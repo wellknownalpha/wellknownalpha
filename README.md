@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @wellknownalpha
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning UI development
+- 💞️ I’m looking to collaborate on full stack web development
+- 📫 How to reach me is just mail me anytime
